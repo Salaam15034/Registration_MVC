@@ -57,4 +57,3 @@ C:\Users\Wallero\source\repos\Login_Registration\Login_Registration\obj\Debug\Lo
 C:\Users\Wallero\source\repos\Login_Registration\Login_Registration\obj\Debug\Login_Registration.csproj.CopyComplete
 C:\Users\Wallero\source\repos\Login_Registration\Login_Registration\obj\Debug\Login_Registration.dll
 C:\Users\Wallero\source\repos\Login_Registration\Login_Registration\obj\Debug\Login_Registration.pdb
-C:\Users\Wallero\source\repos\Login_Registration\Login_Registration\obj\Debug\Login_Registration.csprojAssemblyReference.cache
